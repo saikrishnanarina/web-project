@@ -9,7 +9,7 @@
 	<h1>WAR Web Service</h1>
 	<ul>
 		<li><a href="http://13.59.16.108:8080/">my jenkins</a></li>
-		<li><a href="https://www.facebook.com/saikrishna.pawanism.9">http://saikrishnanarina's facebook</a></li>
+		<li><a href="https://www.facebook.com/saikrishna.pawanism.9">http://localhost:8080/saikrishnanarina's/facebook/page</a></li>
 		<li><a href="http://localhost:8080/wwp-1.0.0/webapi/service/time">http://localhost:8080/wwp-1.0.0/webapi/service/time</a></li>
 		<li><a href="http://localhost:8080/wwp-1.0.0/webapi/service/send">http://localhost:8080/wwp-1.0.0/webapi/service/send</a> (Accessible using POST)</li>
 		<li><a href="http://localhost:8080/wwp-1.0.0/webapi/service/send/rowan">http://localhost:8080/wwp-1.0.0/webapi/service/rowan</a> (Accessible using POST)</li>
